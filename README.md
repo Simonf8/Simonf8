@@ -14,14 +14,10 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░ CIRCUIT BOARD ANIMATION ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░ ANIMATED MASCOT ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Circuit Animation"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=14&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=500&lines=%3E+CIRCUITS+ONLINE...;%3E+VOLTAGE+STABLE...;%3E+READY+TO+BUILD..." alt="Terminal"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Tech Animation"/>
 
 <br/>
 <br/>
@@ -30,25 +26,30 @@
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░ ABOUT ME ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=18&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&width=300&lines=%E2%97%A2+ABOUT+ME+%E2%97%A3" alt="About Title"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=20&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&width=300&lines=%E2%97%A2+ABOUT+ME+%E2%97%A3" alt="About Title"/>
+
+<br/>
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=550&height=60&lines=Electrical+Engineering+student+passionate+about;making+machines+think." alt="About Line 1"/>
 
 <br/>
 
 <table>
 <tr>
-<td>
-
-```
-Electrical Engineering student passionate about
-making machines think. I bridge the gap between
-raw circuits and intelligent algorithms.
-
-▸ Robotics & Autonomous Systems
-▸ Control Theory & Signal Processing  
-▸ Embedded Systems & IoT
-▸ AI/ML on Edge Devices
-```
-
+<td align="center">
+<img src="https://img.shields.io/badge/🤖_Robotics_&_Autonomous_Systems-FF6B6B?style=for-the-badge" alt="Robotics"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/📡_Control_Theory_&_Signals-4ECDC4?style=for-the-badge" alt="Control"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/⚡_Embedded_Systems_&_IoT-45B7D1?style=for-the-badge" alt="Embedded"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🧠_AI/ML_on_Edge_Devices-FF00FF?style=for-the-badge" alt="AI"/>
 </td>
 </tr>
 </table>
@@ -56,40 +57,43 @@ raw circuits and intelligent algorithms.
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░ SKILLS (COLORED BADGES) ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░ SKILLS ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=18&duration=3000&pause=500&color=FF00FF&center=true&vCenter=true&width=300&lines=%E2%97%A2+SKILLS+%E2%97%A3" alt="Skills Title"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=20&duration=3000&pause=500&color=FF00FF&center=true&vCenter=true&width=300&lines=%E2%97%A2+SKILLS+%E2%97%A3" alt="Skills Title"/>
 
 <br/>
 <br/>
 
-<!-- LANGUAGES -->
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=12&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&width=120&lines=LANGUAGES" alt="Languages"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=python,cpp&theme=dark" alt="Languages"/>
+</td>
+<td align="center" width="33%">
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=12&duration=2000&pause=500&color=FF00FF&center=true&vCenter=true&width=120&lines=HARDWARE" alt="Hardware"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" alt="Hardware"/>
 <br/>
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32"/>
+</td>
+<td align="center" width="33%">
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=12&duration=2000&pause=500&color=FFFF00&center=true&vCenter=true&width=120&lines=TOOLS" alt="Tools"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=git,linux,vscode&theme=dark" alt="Tools"/>
+</td>
+</tr>
+</table>
 
-<!-- HARDWARE -->
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
-<img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"/>
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
-
-<br/>
-
-<!-- TOOLS -->
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-
-<br/>
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░ ACTIVITY ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=18&duration=3000&pause=500&color=FFFF00&center=true&vCenter=true&width=300&lines=%E2%97%A2+ACTIVITY+%E2%97%A3" alt="Activity Title"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=20&duration=3000&pause=500&color=FFFF00&center=true&vCenter=true&width=300&lines=%E2%97%A2+ACTIVITY+%E2%97%A3" alt="Activity Title"/>
 
 <br/>
 
@@ -104,6 +108,10 @@ raw circuits and intelligent algorithms.
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░ FOOTER ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=14&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=400&lines=%3E+thanks+for+visiting!;%3E+let's+build+something+cool..." alt="Footer Text"/>
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&animation=twinkling" alt="Footer"/>
 
