@@ -1,72 +1,110 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=200&section=header&text=SIMON%20F8&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35" />
-</div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=500&color=FF6B6B&center=true&vCenter=true&multiline=true&width=800&height=100&lines=ELECTRICAL+ENGINEERING+STUDENT+🎓" alt="Typing SVG" />
-</div>
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░ HEADER ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=SIMON_F8&fontSize=70&fontColor=00FFFF&animation=twinkling&stroke=FF00FF&strokeWidth=2" alt="Header"/>
 
-## <div align="center">ABOUT ME</div>
+<br/>
 
-<div align="center">
-  
-**`ELECTRICAL ENGINEERING STUDENT`**
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=500&lines=ELECTRICAL+ENGINEER;ROBOTICS+ENTHUSIAST;EMBEDDED+SYSTEMS+DEV" alt="Subtitle" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Robotics+%7C+AI+%7C+Control+Systems;Embedded+Programming;Building+Tomorrow's+Technology" alt="Skills" />
+<br/>
+<br/>
 
-</div>
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░ CIRCUIT BOARD ANIMATION ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<br>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Circuit Animation"/>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,arduino,raspberrypi,git&theme=dark" />
-</div>
+<br/>
 
-<br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=14&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=500&lines=%3E+CIRCUITS+ONLINE...;%3E+VOLTAGE+STABLE...;%3E+READY+TO+BUILD..." alt="Terminal"/>
 
-## **GITHUB STATS**
+<br/>
+<br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Simonf8&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simonf8&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF" height="170"/>
-</div>
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░ ABOUT ME ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Simonf8&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=4ECDC4&fire=FF6B6B&currStreakLabel=FFFFFF" />
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=18&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&width=300&lines=%E2%97%A2+ABOUT+ME+%E2%97%A3" alt="About Title"/>
 
-<br>
+<br/>
 
-## <div align="center">CURRENT FOCUS</div>
+<table>
+<tr>
+<td>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://custom-icon-badges.demolab.com/badge/Robotics-Autonomous%20Systems-70A5FD?style=for-the-badge&logo=robot&logoColor=white" />
-        <br>
-        <img src="https://custom-icon-badges.demolab.com/badge/AI-Control%20Algorithms-BF91F3?style=for-the-badge&logo=brain&logoColor=white" />
-        <br>
-        <img src="https://custom-icon-badges.demolab.com/badge/Embedded-System%20Solutions-38BDAE?style=for-the-badge&logo=cpu&logoColor=white" />
-      </td>
-    </tr>
-  </table>
-</div>
+```
+Electrical Engineering student passionate about
+making machines think. I bridge the gap between
+raw circuits and intelligent algorithms.
 
-<br>
+▸ Robotics & Autonomous Systems
+▸ Control Theory & Signal Processing  
+▸ Embedded Systems & IoT
+▸ AI/ML on Edge Devices
+```
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Building+Tomorrow's+Technology;Where+Innovation+Meets+Engineering;Always+Learning+and+Growing" alt="Motivation" />
-</div>
+</td>
+</tr>
+</table>
 
-<br>
+<br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=120&section=footer&animation=twinkling" />
-</div>
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░ SKILLS (COLORED BADGES) ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+🚀;Let's+build+something+amazing+together!+💫" alt="Footer typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=18&duration=3000&pause=500&color=FF00FF&center=true&vCenter=true&width=300&lines=%E2%97%A2+SKILLS+%E2%97%A3" alt="Skills Title"/>
+
+<br/>
+<br/>
+
+<!-- LANGUAGES -->
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+
+<br/>
+
+<!-- HARDWARE -->
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+<img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"/>
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
+
+<br/>
+
+<!-- TOOLS -->
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+
+<br/>
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░ ACTIVITY ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=18&duration=3000&pause=500&color=FFFF00&center=true&vCenter=true&width=300&lines=%E2%97%A2+ACTIVITY+%E2%97%A3" alt="Activity Title"/>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Simonf8&bg_color=00000000&color=00FFFF&line=FF00FF&point=FFFF00&area=true&area_color=00FFFF&hide_border=true&custom_title=">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Simonf8&bg_color=ffffff00&color=0066FF&line=FF0066&point=FFAA00&area=true&area_color=0066FF&hide_border=true&custom_title=">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Simonf8&bg_color=00000000&color=00FFFF&line=FF00FF&point=FFFF00&area=true&area_color=00FFFF&hide_border=true&custom_title=" alt="Activity Graph"/>
+</picture>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░ FOOTER ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&animation=twinkling" alt="Footer"/>
+
 </div>
