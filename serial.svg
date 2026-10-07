@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="359" viewBox="0 0 1000 359" role="img" aria-label="Serial console boot log">
+<style>
+  text { font-family:'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'DejaVu Sans Mono','Courier New',monospace; font-size:14.5px }
+  .c { fill-opacity:0; animation: on 0s forwards }
+  .ln { opacity:0; animation: ln .12s ease-out forwards }
+  @keyframes on { to { fill-opacity:1 } }
+  @keyframes ln { from { opacity:0; transform:translateX(-6px) } to { opacity:1; transform:none } }
+  .cur { animation: cur 1s steps(1) infinite }
+  @keyframes cur { 50% { fill-opacity:0 } }
+  .tx { animation: led .23s steps(1) infinite }
+  .rx { animation: led .37s steps(1) infinite }
+  @keyframes led { 50% { fill-opacity:.15 } }
+</style>
+<rect x="1" y="1" width="998" height="357" rx="14" fill="#090c12" stroke="#1f2634"/>
+<path d="M1,44 V15 a14,14 0 0 1 14,-14 H985 a14,14 0 0 1 14,14 V44z" fill="#10141c"/>
+<line x1="1" y1="44" x2="999" y2="44" stroke="#1f2634"/>
+<text x="28" y="28" fill="#7d8aa0">UART0 <tspan fill="#3b4555">│</tspan> /dev/ttyUSB0 <tspan fill="#3b4555">│</tspan> 115200 8N1 <tspan fill="#3b4555">│</tspan> no flow ctrl</text>
+<text x="972" y="28" text-anchor="end" fill="#7d8aa0">TX <tspan class="tx" fill="#39ff88">●</tspan>  RX <tspan class="rx" fill="#ffb000">●</tspan></text>
+
+<text y="78" xml:space="preserve"><tspan x="28" fill="#39ff88">~ $ </tspan><tspan fill="#e6edf7"><tspan class="c" style="animation-delay:0.400s">p</tspan><tspan class="c" style="animation-delay:0.445s">i</tspan><tspan class="c" style="animation-delay:0.490s">c</tspan><tspan class="c" style="animation-delay:0.535s">o</tspan><tspan class="c" style="animation-delay:0.580s">c</tspan><tspan class="c" style="animation-delay:0.625s">o</tspan><tspan class="c" style="animation-delay:0.670s">m</tspan><tspan class="c" style="animation-delay:0.715s">&#160;</tspan><tspan class="c" style="animation-delay:0.760s">-</tspan><tspan class="c" style="animation-delay:0.805s">b</tspan><tspan class="c" style="animation-delay:0.850s">&#160;</tspan><tspan class="c" style="animation-delay:0.895s">1</tspan><tspan class="c" style="animation-delay:0.940s">1</tspan><tspan class="c" style="animation-delay:0.985s">5</tspan><tspan class="c" style="animation-delay:1.030s">2</tspan><tspan class="c" style="animation-delay:1.075s">0</tspan><tspan class="c" style="animation-delay:1.120s">0</tspan><tspan class="c" style="animation-delay:1.165s">&#160;</tspan><tspan class="c" style="animation-delay:1.210s">/</tspan><tspan class="c" style="animation-delay:1.255s">d</tspan><tspan class="c" style="animation-delay:1.300s">e</tspan><tspan class="c" style="animation-delay:1.345s">v</tspan><tspan class="c" style="animation-delay:1.390s">/</tspan><tspan class="c" style="animation-delay:1.435s">t</tspan><tspan class="c" style="animation-delay:1.480s">t</tspan><tspan class="c" style="animation-delay:1.525s">y</tspan><tspan class="c" style="animation-delay:1.570s">U</tspan><tspan class="c" style="animation-delay:1.615s">S</tspan><tspan class="c" style="animation-delay:1.660s">B</tspan><tspan class="c" style="animation-delay:1.705s">0</tspan></tspan></text>
+<text class="ln" y="103" style="animation-delay:2.25s" xml:space="preserve"><tspan x="28" fill="#55606f">[0.000000]</tspan> <tspan fill="#ffb000">boot </tspan><tspan fill="#c9d4e5"> SF8 firmware rev 26.10 — hello, world</tspan></text>
+<text class="ln" y="128" style="animation-delay:2.53s" xml:space="preserve"><tspan x="28" fill="#55606f">[0.004112]</tspan> <tspan fill="#ffb000">clk  </tspan><tspan fill="#c9d4e5"> HSE 8 MHz → PLL 168 MHz .........................</tspan> <tspan fill="#55606f">[</tspan><tspan fill="#39ff88" font-weight="700"> OK </tspan><tspan fill="#55606f">]</tspan></text>
+<text class="ln" y="153" style="animation-delay:2.81s" xml:space="preserve"><tspan x="28" fill="#55606f">[0.011830]</tspan> <tspan fill="#ffb000">i2c1 </tspan><tspan fill="#c9d4e5"> IMU detected @ 0x68, calibrating ................</tspan> <tspan fill="#55606f">[</tspan><tspan fill="#39ff88" font-weight="700"> OK </tspan><tspan fill="#55606f">]</tspan></text>
+<text class="ln" y="178" style="animation-delay:3.09s" xml:space="preserve"><tspan x="28" fill="#55606f">[0.019244]</tspan> <tspan fill="#ffb000">pwm  </tspan><tspan fill="#c9d4e5"> 4-ch motor driver armed .........................</tspan> <tspan fill="#55606f">[</tspan><tspan fill="#39ff88" font-weight="700"> OK </tspan><tspan fill="#55606f">]</tspan></text>
+<text class="ln" y="203" style="animation-delay:3.37s" xml:space="preserve"><tspan x="28" fill="#55606f">[0.027561]</tspan> <tspan fill="#ffb000">ctrl </tspan><tspan fill="#c9d4e5"> PID loop @ 1 kHz  Kp=1.20 Ki=0.40 Kd=0.05 .......</tspan> <tspan fill="#55606f">[</tspan><tspan fill="#39ff88" font-weight="700"> OK </tspan><tspan fill="#55606f">]</tspan></text>
+<text class="ln" y="228" style="animation-delay:3.65s" xml:space="preserve"><tspan x="28" fill="#55606f">[0.035907]</tspan> <tspan fill="#ffb000">nn   </tspan><tspan fill="#c9d4e5"> edge model loaded (int8, 48 KB) .................</tspan> <tspan fill="#55606f">[</tspan><tspan fill="#39ff88" font-weight="700"> OK </tspan><tspan fill="#55606f">]</tspan></text>
+<text class="ln" y="253" style="animation-delay:3.93s" xml:space="preserve"><tspan x="28" fill="#55606f">[0.041376]</tspan> <tspan fill="#ffb000">user </tspan><tspan fill="#ff2bd6"> simon_f8 · EE student · robots that think</tspan></text>
+<text class="ln" y="278" style="animation-delay:4.21s" xml:space="preserve"><tspan x="28" fill="#55606f">[0.048002]</tspan> <tspan fill="#ffb000">work </tspan><tspan fill="#00e5ff"> building: load-cell calibration fixture</tspan></text>
+<text class="ln" y="303" style="animation-delay:4.49s" xml:space="preserve"><tspan x="28" fill="#55606f">[0.052911]</tspan> <tspan fill="#ffb000">msg  </tspan><tspan fill="#39ff88"> open to internships &amp; collaborations</tspan></text>
+<text class="ln" y="328" style="animation-delay:4.97s" xml:space="preserve"><tspan x="28" fill="#00e5ff">sf8&gt; </tspan><tspan class="cur" fill="#00e5ff">█</tspan></text>
+</svg>
